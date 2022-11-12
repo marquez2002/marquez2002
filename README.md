@@ -22,15 +22,52 @@
 </picture>
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  <img alt="" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+</picture>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white">
   <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white">
   <img alt="" src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white">
 </picture>
 
+ ## 👨‍💻 | SOME OF MY STATS ARE
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset=" https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{marquez2002}1212%2Fhit-counter">
+  <source media="(prefers-color-scheme: light)" srcset=" https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{marquez2002}1212%2Fhit-counter">
+  <img alt="" src=" https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{marquez2002}1212%2Fhit-counter">
+</picture>
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=marquez2002&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=marquez2002&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marquez2002&show_icons=true" />
+</picture>
+
+
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="  https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{marquez2002}1212%2Fhit-counter">
+  <source media="(prefers-color-scheme: light)" srcset="  https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{marquez2002}1212%2Fhit-counter">
+  <img alt="" src="  https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{marquez2002}1212%2Fhit-counter">
+</picture>
+          
+    
+
+
+
+
+
+<!--- 
 # 🚧 Work in progress 🚧
-
-
-<!--- https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white
+https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white
 https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white
 https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
 https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white
@@ -41,7 +78,7 @@ https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoC
 
 
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- https://github-readme-streak-stats.herokuapp.com/?user={username}🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
