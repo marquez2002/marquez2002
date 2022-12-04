@@ -40,6 +40,7 @@
   <img alt="" src=" https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{marquez2002}1212%2Fhit-counter">
 </picture>
 
+<!---     
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=marquez2002&show_icons=true&theme=dark"
@@ -60,7 +61,7 @@
   <img alt="" src="  https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{marquez2002}1212%2Fhit-counter">
 </picture>
           
-<!---     
+
 
 
 
