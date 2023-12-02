@@ -6,7 +6,7 @@
 </picture>
 
 ## 👨‍💻 | ABOUT ME
- - Third-year student in the computer engineering degree at UCO. 
+ - Fourth-year student studying computer engineering with a software specialty at the UCO.
  
  ## 👨‍💻 | SOME TECHNOLOGIES I USE
 <picture>
@@ -32,6 +32,20 @@
   <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white">
   <img alt="" src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white">
 </picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img alt="" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img alt="" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+</picture>
+
+
 
  ## 👨‍💻 | SOME OF MY STATS ARE
  <picture>
