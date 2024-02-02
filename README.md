@@ -52,12 +52,40 @@
   <img alt="" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </picture>
 
- ## 👨‍💻 | SOME OF MY STATS ARE
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset=" https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{marquez2002}1212%2Fhit-counter">
-  <source media="(prefers-color-scheme: light)" srcset=" https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{marquez2002}1212%2Fhit-counter">
-  <img alt="" src=" https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{marquez2002}1212%2Fhit-counter">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png">
+  <img alt="CSS" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png">
 </picture>
+
+ ## 👨‍💻 | SOME TOOLS I USE
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png">
+  <img alt="Android Studio" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png">
+  <img alt="Visual Studio Code" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png">
+  <img alt="Eclipse" src="https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png">
+</picture>
+
+
+<!---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="">
+  <source media="(prefers-color-scheme: light)" srcset="">
+  <img alt="Android Studio" src="">
+</picture>
+
+--->
 
 <!---     
 <picture>
