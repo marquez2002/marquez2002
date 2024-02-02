@@ -1,12 +1,13 @@
-# Hi, I'm Gonzalo👋
+# Hi, I'm Gonzalo!👋
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/90795270/201412680-0ecfe068-ba29-46fd-a761-46df51614e40.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/90795270/201412680-0ecfe068-ba29-46fd-a761-46df51614e40.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marquez2002/marquez2002/main/Banner%20Github.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marquez2002/marquez2002/main/Banner%20Github.png">
+  <img alt="Shows a banner of my profile." src="https://raw.githubusercontent.com/marquez2002/marquez2002/main/Banner%20Github.png">
 </picture>
 
 ## 👨‍💻 | ABOUT ME
- - Fourth-year student studying computer engineering with a software specialty at the UCO.
+ - Fourth-year student studying computer engineering with a software specialty at the University of Córdoba.
+ - Coordinator of the Free Software Classroom at the University of Córdoba.
  
  ## 👨‍💻 | SOME TECHNOLOGIES I USE
 <picture>
@@ -78,7 +79,7 @@
   <source media="(prefers-color-scheme: light)" srcset="  https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{marquez2002}1212%2Fhit-counter">
   <img alt="" src="  https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{marquez2002}1212%2Fhit-counter">
 </picture>
-          
+          --->
 
 
 
@@ -86,7 +87,12 @@
 
 
 # 🚧 Work in progress 🚧
-https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/marquez2002=anuraghazra&hide_progress=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/marquez2002=anuraghazra&hide_progress=true">
+  <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/marquez2002=anuraghazra&hide_progress=true">
+</picture>
+<!---https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white
 https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white
 https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
 https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white
