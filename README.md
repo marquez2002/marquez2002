@@ -8,7 +8,7 @@
 ## 👨‍💻 | ABOUT ME
  - Fourth-year student studying computer engineering with a software specialty at the University of Córdoba.
  - Coordinator of the Free Software Classroom at the University of Córdoba.
- 
+ - [Connect with me on LinkedIn](https://www.linkedin.com/in/gonzalo-márquez)
  ## 👨‍💻 | SOME TECHNOLOGIES I USE
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
