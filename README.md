@@ -23,6 +23,12 @@
 </picture>
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Flutter-blue?logo=flutter&amp;logoColor=white">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Flutter-blue?logo=flutter&amp;logoColor=white">
+  <img alt="" src="https://img.shields.io/badge/Flutter-blue?logo=flutter&amp;logoColor=white">
+</picture>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <img alt="" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
