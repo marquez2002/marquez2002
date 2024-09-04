@@ -23,9 +23,9 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-FLUTTER-02569B?logo=flutter&logoColor=white&style=fot-the-badge">
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-FLUTTER-02569B?logo=flutter&logoColor=white&style=fot-the-badge">
-  <img alt="" src="https://img.shields.io/badge/-FLUTTER-02569B?logo=flutter&logoColor=white&style=fot-the-badge">
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img alt="" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 </picture>
 
 <picture>
