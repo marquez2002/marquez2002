@@ -20,15 +20,9 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white">
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white">
-  <img alt="C#" src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white">
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white">
-  <img alt="WPF" src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white">
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 </picture>
 
 <picture>
