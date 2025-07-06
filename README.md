@@ -122,6 +122,18 @@
   <img alt="Eclipse" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white>
+  <img alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white>
+  <img alt="GIT" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+</picture>
+
 ## 👨‍💻 | SOME STATS
 
 <picture>
