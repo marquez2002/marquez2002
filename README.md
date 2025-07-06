@@ -6,8 +6,11 @@
 </picture>
 
 ## 👨‍💻 | ABOUT ME
- - Fourth-year student studying computer engineering with a software specialty at the University of Córdoba.
- - Coordinator of the Free Software Classroom at the University of Córdoba.
+ - Graduated in Computer Engineering with a major in Software at the University of Córdoba.
+ - Former coordinator of the Free Software Classroom at the University of Córdoba.
+ - Professional experience in software development, with a strong background in various programming languages including Python, Java, C#, and C++.
+ - Experience working in both academic and industry settings, contributing to real-world software projects and collaborative development environments.
+ - Passionate about open-source technologies, clean code, and continuous learning.
  - [Connect with me on LinkedIn](https://www.linkedin.com/in/gonzalo-márquez)
  ## 👨‍💻 | SOME TECHNOLOGIES I USE
 <picture>
