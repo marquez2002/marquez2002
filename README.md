@@ -15,8 +15,26 @@
  ## 👨‍💻 | SOME TECHNOLOGIES I USE
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white ">
-  <img alt="" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white">
+  <img alt="C#" src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white">
+  <img alt="WPF" src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </picture>
 
 <picture>
